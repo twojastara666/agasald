@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+
+<html>
+    <head>
+	 <title>Strona Główna</title>	
+  </head>
+
+	<body style="background:url(https://collabo-cafe.com/wp-content/uploads/98d5cf9f9f6047142838d11b32179d3f.jpg);">
+
+	<marquee direction="right" style="color: white; margin: 6px 10;">Jojo Caffe   Zapraszamy!</marquee>
+	<p style="text-align: center"><b>Jojo Caffe</b></p></br><p/>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" type="text/css" href="styl.css">
+  
+	</body>
+
+            <div id="all">
+		 
+            <div id="sidebar">
+	<p style="text-align: center">O nas</p></br>
+		<p/>
+            
+            </div>
+            <div id=""text-align: center"">
+                <p style="text-align: center"> Kawiarnia czynna jest od 11 rano do 21 wieczorem. Opłata za wstęp wynosi 50zł
+	<br>Jesteśmy typową kawiarnią z jedzeniem i piciem,ale o tematyce anime!<br /> 
+	wraz z zamówieniem możesz otrzymać określone podstawki z postaciami w zależności od tego, kiedy nas odwiedzisz</br>
+	(pierwsza połowa do 25 lutego to tematyka związana Bucciarati'm, od 26 do końca to Giorno i Fugo).
+	<br>Możesz tu również zakupić merch z postacią z ulubionego partu.</br></p>
+ 
+                 </br><center><img src="http://collabo-cafe.com/wp-content/uploads/98d5cf9f9f6047142838d11b32179d3f.jpg" height="550"/>
+	
+	 <style type="text/css">
+	body
+	</style>
+
+        <div id=""text-align: center"">
+ 	<a href="Zdjęcia/index.html">Zdjęciat</a>
+
+	<a href="kontakt/index.html">Kontakt</a>
+        </div>
+    </body>
+</html>
